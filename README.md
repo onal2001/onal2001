@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @onal2001
+- 👀 I’m interested in .Data Scientist
+- 🌱 I’m currently learning python Programming
